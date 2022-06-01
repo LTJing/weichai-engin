@@ -1,0 +1,2 @@
+webpackJsonp([51],{WmOd:function(e,t,r){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",{staticClass:"realtime-monitor"},[t("router-view")],1)},staticRenderFns:[]},i=r("VU/8")({name:"realtime-monitor"},n,!1,null,null,null).exports;t.default=i}});
+//# sourceMappingURL=51.1ab08b349f1cd7451660.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([39],{TD5k:function(e,t){},lFye:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("router-view")},staticRenderFns:[]};var a=n("VU/8")({name:"message-center"},r,!1,function(e){n("TD5k")},"data-v-3bc9a7d8",null).exports;t.default=a}});
+//# sourceMappingURL=39.ff24b6d82ebe48a51be0.js.map

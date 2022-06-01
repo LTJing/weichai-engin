@@ -1,0 +1,2 @@
+webpackJsonp([25],{"5FD9":function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",{staticClass:"health-manage"},[t("div",{staticClass:"health-manage"},[t("router-view")],1)])},staticRenderFns:[]};var s=a("VU/8")({name:"health-manage"},n,!1,function(e){a("83pY")},"data-v-ebd20026",null);t.default=s.exports},"83pY":function(e,t){}});
+//# sourceMappingURL=25.480c1ce18cbbf75c1111.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([32],{CRNy:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var s={render:function(){var t=this.$createElement;return(this._self._c||t)("div",{staticClass:"work-list"},[this._v("\n  work-list\n")])},staticRenderFns:[]};var r=n("VU/8")({name:"work-list"},s,!1,function(t){n("SNZW")},"data-v-65b81ec3",null).exports;e.default=r},SNZW:function(t,e){}});
+//# sourceMappingURL=32.120c7c24174c8f341d7e.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([24],{GauK:function(e,t){},Nyln:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var i={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",{staticClass:"config-file"},[t("router-view")],1)},staticRenderFns:[]};var a=n("VU/8")({name:"config-file"},i,!1,function(e){n("GauK")},"data-v-ecde50be",null);t.default=a.exports}});
+//# sourceMappingURL=24.6ae4a4c7d11bf396005d.js.map
